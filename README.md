@@ -1,3 +1,5 @@
-#C-Newbie-Projects
-This repo is filled with newbie projects that I made while learning C
-I hope you enjoy this repo!!
+# C-Newbie-Projects
+My first few beginner level projects using C!
+
+This repo is going to be a few of my first projects while learning C.
+They might not be the best projects but I hope you enjoy the repo!!
